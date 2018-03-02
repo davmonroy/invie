@@ -33,7 +33,7 @@ input:focus, textarea:input{
 }
 
 .background{
-  background-image: url('../images/background.png');
+  background-image: url('background.png');
   background-size: cover;
 }
 .header {
